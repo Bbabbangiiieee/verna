@@ -1,0 +1,20 @@
+{
+  "name": "noisensor",
+  "version": "1.0.0",
+  "description": "noiSENSOR is a web application designed to monitor noise levels and provide warnings when the noise exceeds a predefined threshold. This README file provides detailed instructions on how to run the noiSENSOR application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.23.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
